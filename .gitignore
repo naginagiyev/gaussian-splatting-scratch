@@ -1,0 +1,23 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# jupyter
+.ipynb_checkpoints/
+
+# training photos
+images/
+
+# generated files
+scene/database.db
+scene/sparse/
+scene/*.pt
+
+# editor and os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

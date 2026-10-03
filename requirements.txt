@@ -1,0 +1,10 @@
+torch
+numpy
+scipy
+pillow
+imageio
+matplotlib
+plotly
+tqdm
+ipywidgets
+ipython
